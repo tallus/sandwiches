@@ -6,6 +6,7 @@
 4. [Grilled Cheese](./Grilled-Cheese.md) - A classic grilled sandwich.
 5. [Turkey Chutney](./Turkey-Chutney.md) - A classic sandwich copied from a local bakery's menu.
 6. [Turkey Cranberry](./Turkey-Cranberry.md) - A traditional post-Thanksgiving leftover sandwich with brined turkey.
+7. [Welsh Rarebit](./Welsh-Rarebit.md) - A traditional Welsh recipe, also known as Welsh Rabbit.
 
 ## Background
 
